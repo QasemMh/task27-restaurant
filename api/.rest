@@ -1,0 +1,14 @@
+GET  http://localhost:81/task27_1/api/menu HTTP/1.1
+
+###
+
+POST http://localhost:81/task27_1/api/message/create HTTP/1.1
+content-type: application/json
+
+{
+  
+ "name":"dd", "email":"dd","message":"dd"
+  }
+
+ 
+###
